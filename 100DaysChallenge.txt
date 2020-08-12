@@ -9,8 +9,10 @@ Author : Blank (kuhhaku)
 Day_02 : 
 Mashup Contest link : https://codeforces.com/contestInvitation/20361b28573cb6851757c32dac9b38e1cbc35532
 Author : divyansh__garg 
-Virtual Contest : CF #486 div-3
+Virtual Contest : https://codeforces.com/gym/290810
 
 Day_03 :
 Mashup Contest link : https://codeforces.com/contestInvitation/ebb9d31e23a20bb53bd7bedf585f9a6b88300ab7
 Author : Shamdin
+Virtual Contest link : https://codeforces.com/gym/290907
+ 
