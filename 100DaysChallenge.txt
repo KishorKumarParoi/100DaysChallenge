@@ -15,4 +15,7 @@ Day_03 :
 Mashup Contest link : https://codeforces.com/gym/290863
 Author : Shamdin
 Virtual Contest link : https://codeforces.com/gym/290907
+Day_04 :
+Mashup Contest link : https://codeforces.com/contestInvitation/7252e519ca3f82cebdd07815115f5571b142089c
+Author : Kishor Kumar (IWanna_MightiestDisciple)
  
