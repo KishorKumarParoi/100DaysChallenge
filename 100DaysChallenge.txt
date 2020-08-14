@@ -23,3 +23,7 @@ Author : Kishor Kumar (IWanna_MightiestDisciple)
 Day_05 :
 Mashup Contest link : https://codeforces.com/contestInvitation/17a96f3785696d95c2f1a7d6daf638cc31556147
 Author : Sachin (Sachin16092001)
+
+Day_06 :
+Mashup Contest link : https://codeforces.com/contestInvitation/a7e66afc1c575b7c27994e6a3f2e70a8483b7105
+Author : Kishor Kumar (IWanna_MightiestDisciple)
